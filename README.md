@@ -37,6 +37,7 @@ Below is a curated list of awesome software and other resources to enable those 
  * [Particle Electron](https://www.particle.io/products/hardware/electron-cellular-dev-kit?) - Raspberry Pi-like microcontroller for connecting the devices you make to the cellular network
  * [OpenTrons](http://opentrons.com/) - an open-source liquid handling robot
  * [OpenPCR](http://openpcr.org/) - an open-source PCR thermocycler
+ * [Ember](https://ember.autodesk.com/) - a comprehensively open-source DLP SLA 3D printer project created by Autodesk
  * [SparkFun](https://www.sparkfun.com/) - company selling all sorts of electronics, including sensors
  * [Bento Box](https://www.bento.bio/) - a low-cost PCR workstation from Bento Lab
  * [SGD](www.yeastgenome.org) - Stanford University's Saccharomyces Genome Database
